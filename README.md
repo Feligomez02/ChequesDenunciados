@@ -4,4 +4,7 @@ En este repositorio se incluye un script que se conecta a la API del BCRA sobre 
 
 La documentación de la API se encuentra en: https://www.bcra.gob.ar/Catalogo/Content/files/pdf/Cheques-v1.pdf
 
-![Captura de pantalla 2024-07-05 141553](https://github.com/Feligomez02/ChequesDenunciados/assets/165085643/34b8fe93-92a1-457f-903f-3eced2a5782d)
+El dashboard es: (https://1drv.ms/u/c/46427905137a145c/EfgsDJKWkXJGmofBMhP6wxwBqfKHMXWfzzprJvRN5pXo-w?e=koPlxe)
+
+![image](https://github.com/user-attachments/assets/4b97cb9c-c4f7-49d1-aa37-0b44a246cbc5)
+
